@@ -1,9 +1,8 @@
 <?php
 
-namespace App;
+namespace Kafka;
 
 use Illuminate\Support\ServiceProvider;
-use App\Connectors\KafkaConnector;
 
 class KafkaServiceProvider extends ServiceProvider
 {
