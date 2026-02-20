@@ -1,0 +1,17 @@
+{
+    "name": "mostafa-adel/kafka-queue",
+    "require": {
+        "laravel/framework": "8.*|9.*|10.*",
+        "ext-rdkafka": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MostafaAdel\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mostafa adel"
+        }
+    ]
+}
